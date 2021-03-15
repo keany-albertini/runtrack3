@@ -1,13 +1,11 @@
-
-
 <!DOCTYPE html>
-<html lang="fr">
+<html>
 <head>
-	<meta charset="utf-8">
 	<script src="script.js" type="text/javascript">
-	bissextile(2000);
+
+	
 	</script>
-	<title> debut js</title>
+	<title></title>
 </head>
 <body>
 
